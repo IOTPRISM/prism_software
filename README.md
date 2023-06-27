@@ -1,5 +1,6 @@
 # PRISM software
 
+The img of the software can be downloaded here: https://liveuclac-my.sharepoint.com/:f:/g/personal/uceeam9_ucl_ac_uk/EoLg4IaFT95Pk223wwD2xo0B1NImw33hPPT3XuCISytAJQ 
 This module is a Docker-packaged Debian image for performing anomaly detection on Internet of Things (IoT) network traffic. The anomaly detection algorithms are based on NetML library ([https://github.com/noise-lab/netml](https://github.com/noise-lab/netml))
 
 ### Prerequisites
